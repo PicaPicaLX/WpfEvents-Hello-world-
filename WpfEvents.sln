@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEvents", "WpfEvents\WpfEvents.csproj", "{3BB28427-39CC-4787-9BC1-B45D4389A128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB28427-39CC-4787-9BC1-B45D4389A128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB28427-39CC-4787-9BC1-B45D4389A128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB28427-39CC-4787-9BC1-B45D4389A128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB28427-39CC-4787-9BC1-B45D4389A128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF6AF7CC-A873-4F4A-AE8C-2BE4B3A1364A}
+	EndGlobalSection
+EndGlobal
